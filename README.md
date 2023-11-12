@@ -1,0 +1,1 @@
+# react-native-tailwind-css-starter-pack
